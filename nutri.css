@@ -1,0 +1,65 @@
+body {
+    background-color: black !important;
+    color: white !important;
+}
+
+header {
+    text-align: center;
+}
+
+header h3 {
+    margin-top: 20px;
+}
+
+footer {
+    text-align: center;
+}
+
+footer p {
+    color: #585c61;
+    margin: 0px;
+}
+
+section {
+    border: 0.5px solid white;
+    border-radius: 5px;
+    margin-top: 30px;
+    padding: 5px;
+    display: flex;
+    width: 345px;
+    margin: 25px auto auto auto;
+    flex-direction: column;
+}
+
+section button {
+    margin: 15px;
+}
+
+.sectionDiv {
+    margin: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    align-content: center;
+}
+
+.sectionDiv input {
+    width: 300px;
+}
+
+#btnCalcular {
+    width: 300px;
+}
+
+#divResultado {
+    margin: 15px;
+}
+
+#pResultado {
+    width: 300px;
+}
+
+#copyrightlogo {
+    width: 195px;
+}
